@@ -24,5 +24,5 @@ The disadvantage of this approach is that it is a bit inflexible compared to oth
 ///////////////////////////////////////////////////////////////
 
 The problem is 
-I have a website page that is not anybody have the access to enter it (an admin web page) 
-so I have to use a singleton method in order to make that thing happen
+I have a website page that is not anybody have the access to enter it (an admin web page for delete and update for users) 
+, so I have to use a singleton method in order to make that thing happen
